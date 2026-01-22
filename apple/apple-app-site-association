@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VJGV8A9835.com.zimuth.ZNews",
+        "paths": [
+            "/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["VJGV8A9835.com.zimuth.ZNews"]
+  }
+}
