@@ -16,3 +16,15 @@ Deployed to:
 ⚠️ Changes require iOS app reinstall to take effect.
 
 Owner: Web / Infra
+
+## Android App Links
+
+File:
+- android/assetlinks.json
+
+Deployed to:
+- /.well-known/assetlinks.json
+
+Requires:
+- Android package name
+- SHA-256 signing certificate fingerprints

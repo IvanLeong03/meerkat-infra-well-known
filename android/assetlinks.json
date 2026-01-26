@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.searcher.zonenews",
+        "sha256_cert_fingerprints": [
+        "1E:23:8F:DB:6A:08:F5:51:9F:AA:43:9C:41:B7:F7:2E:92:05:CD:DC:76:CD:2B:E3:42:0C:74:DB:58:51:D1:D1"
+        ]
+    }
+}]
