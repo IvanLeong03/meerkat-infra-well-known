@@ -5,7 +5,29 @@
       {
         "appID": "VJGV8A9835.com.zimuth.ZNews",
         "paths": [
-            "/*"
+          "/",
+          "/home",
+          "/china",
+          "/hk",
+          "/world",
+          "/today",
+          "/article/*",
+          "/levity",
+          "/levity/article/*",
+          "/search",
+          "/topics/*",
+          "/recap",
+          "/personal",
+          "/account/*",
+          "/login",
+          "/register",
+          "/subscribe",
+
+          "NOT /about-us",
+          "NOT /user-guide",
+          "NOT /terms-and-conditions",
+          "NOT /privacy-policy",
+          "NOT /contact-us"
         ]
       }
     ]
